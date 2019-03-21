@@ -1,0 +1,4 @@
+name: LC01
+version: 1.0-SNAPSHOT
+main: com.tscforum.lc01.LC01
+api-version: 1.13
