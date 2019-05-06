@@ -23,7 +23,7 @@ public class TeemoShroom implements Listener {
         final Material blockType = player.getLocation().getBlock().getType();
 
         switch (blockType) {
-    case RED_MUSHROOM, BROWN_MUSHROOM -> shroomExplode(player, block);
+    case RED_MUSHROOM, BROWN_MUSHROOM -> shroomExplode(player);
     default -> return;
 }
     }
