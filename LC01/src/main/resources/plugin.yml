@@ -1,4 +1,0 @@
-name: LC01
-version: ${project.version}
-main: com.tscforum.lc01.LC01
-api-version: 1.13
